@@ -1,0 +1,13 @@
+{
+    "name": "bivady/ci-workshop",
+    "authors": [
+        {
+            "name": "Bence Ivady",
+            "email": "bence.ivady@emarsys.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "~5.7"
+    }
+}
